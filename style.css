@@ -1,0 +1,19 @@
+body {
+    background-color: blanchedalmond;
+}
+
+#siyahi img {
+    border: 2px solid red;
+    
+}
+
+#komputer-netice {
+    float: left;
+}
+
+#netice {
+    width: 260px;
+    height: 260px;
+    float: left;
+    background: #17ff1f;
+}
